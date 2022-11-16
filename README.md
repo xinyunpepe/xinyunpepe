@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xinyun Pepe
 - 👩🏻‍💻 Computer Science student at 42 Lyon
-- 👀 Currently searching for an full-stack internship 
+- 👀 Currently searching for an internship 
 - 🌱 Always learning and always evolving
 - 📫 xinyun.pepe@gmail.com
 
